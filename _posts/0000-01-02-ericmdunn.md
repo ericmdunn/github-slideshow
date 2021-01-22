@@ -3,5 +3,5 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 
-This is my text.
+"Every man has his own way of eating yogurt"
 Use the left arrow to go back.
